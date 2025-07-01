@@ -1,1 +1,12 @@
-# site-ceasa
+<!-- index.html -->
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8">
+  <title>CEASA/MS</title>
+</head>
+<body>
+  <h1>Bem-vindo à CEASA/MS</h1>
+  <p>Este é o site institucional da Central de Abastecimento.</p>
+</body>
+</html>
